@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "D:\\python\\python.exe",
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["."],
+  "python.analysis.extraPaths": ["D:\\python\\Lib\\site-packages"]
+}
